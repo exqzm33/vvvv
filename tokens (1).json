@@ -1,0 +1,122 @@
+[
+    {
+        "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
+        "ticker": "DARK",
+        "mexcSymbol": "DARK_USDT"
+    },
+    {
+        "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+        "ticker": "TROLL",
+        "mexcSymbol": "TROLLSOL_USDT"
+    },
+    {
+        "address": "F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump",
+        "ticker": "AGIXT",
+        "mexcSymbol": "AGIXT_USDT"
+    },
+    {
+        "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+        "ticker": "HOUSE",
+        "mexcSymbol": "HOUSE_USDT"
+    },
+    {
+        "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+        "ticker": "PWEASE",
+        "mexcSymbol": "PWEASE_USDT"
+    },
+    {
+        "address": "4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+        "ticker": "GHIBLI",
+        "mexcSymbol": "GHIBLI_USDT"
+    },
+    {
+        "address": "boopkpWqe68MSxLqBGogs8ZbUDN4GXaLhFwNP7mpP1i",
+        "ticker": "BOOP",
+        "mexcSymbol": "BOOP_USDT"
+    },
+    {
+        "address": "38PgzpJYu2HkiYvV8qePFakB8tuobPdGm2FFEn7Dpump",
+        "ticker": "GORK",
+        "mexcSymbol": "GORK_USDT"
+    },
+    {
+        "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+        "ticker": "TITCOIN",
+        "mexcSymbol": "TITCOIN_USDT"
+    },
+    {
+        "address": "0xcf640fdf9b3d9e45cbd69fda91d7e22579c14444",
+        "ticker": "GORILLA",
+        "mexcSymbol": "GORILLABSC_USDT"
+    },
+    {
+        "address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+        "ticker": "HOSICO",
+        "mexcSymbol": "HOSICO_USDT"
+    },
+    {
+        "address": "Ai3eKAWjzKMV8wRwd41nVP83yqfbAVJykhvJVPxspump",
+        "ticker": "MOONPIG",
+        "mexcSymbol": "MOONPIG_USDT"
+    },
+    {
+        "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+        "ticker": "USELESS",
+        "mexcSymbol": "USELESS_USDT"
+    },
+    {
+        "address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+        "ticker": "DUPE",
+        "mexcSymbol": "DUPE_USDT"
+    },
+    {
+        "address": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk",
+        "ticker": "LAUNCHCOIN",
+        "mexcSymbol": "LAUNCHCOIN_USDT"
+    },
+    {
+        "address": "ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb",
+        "ticker": "GOONC",
+        "mexcSymbol": "GOONC_USDT"
+    },
+    {
+        "address": "97PVGU2DzFqsAWaYU17ZBqGvQFmkqtdMywYBNPAfy8vy",
+        "ticker": "STARTUP",
+        "mexcSymbol": "STARTUP_USDT"
+    },
+    {
+        "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+        "ticker": "NOBODY",
+        "mexcSymbol": "NOBODY_USDT"
+    },
+    {
+        "address": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+        "ticker": "COLLAT",
+        "mexcSymbol": "COLLAT_USDT"
+    },
+    {
+        "address": "0x6bdcce4a559076e37755a78ce0c06214e59e4444",
+        "ticker": "B",
+        "mexcSymbol": "B_USDT"
+    },
+    {
+        "address": "2AEU9yWk3dEGnVwRaKv4div5TarC4dn7axFLyz6zG4Pf",
+        "ticker": "DIS",
+        "mexcSymbol": "DIS_USDT"
+    },
+    {
+        "address": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+        "ticker": "LABUBU",
+        "mexcSymbol": "LABUBU_USDT"
+    },
+    {
+        "address": "0x51363f073b1e4920fda7aa9e9d84ba97ede1560e",
+        "ticker": "BOB",
+        "mexcSymbol": "BOBBSC_USDT"
+    },
+    {
+        "address": "",
+        "ticker": "",
+        "mexcSymbol": "_USDT"
+    }
+]
